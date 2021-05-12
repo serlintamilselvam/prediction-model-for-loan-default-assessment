@@ -12,7 +12,7 @@ Data available in <a href="https://drive.google.com/file/d/1Bgvky1gxY-bQqiRUX3-G
 
 3. Model identified a potential set of customers who maintains a significant account balance and has regular intervals of credit transactions on their account, has high probability of loan repayment. The customers with less account transactions and maintains a very low account balance for a significant time before the loan request date, has a high probability of loan defaulting. The model is also capable of adjusting the prediction parameters of its features based on the future dataset fed into it.
 
-4. In total 21 features are extracted from the provided dataset which yields maximum accuracy from model. The features are as follows:
+4. In total 21 features are extracted from the provided dataset which yields maximum accuracy. The features are as follows:
 <ul>
 	<li>Total number of credit transactions</li>
 	<li>Average amount credited to the account</li>
